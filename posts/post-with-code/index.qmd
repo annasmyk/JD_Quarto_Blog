@@ -1,13 +1,9 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "User Group Meeting october 25th"
+author: "Anna Smyk"
 date: "2022-10-09"
-categories: [news, code, analysis]
+categories: [news]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
-
-```{r}
-1 + 1
-```
+The STACE user group meets online to share the lestest JD+ developments.
