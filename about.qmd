@@ -9,7 +9,7 @@ about:
       href: https://jdemetra-new-documentation.netlify.app
     - icon: github
       text: Current online documentation
-      href: https://jdemetradocumentation.github.io/JDemetra-documentation
+      href: https://jdemetradocumentation.github.io/JDemetra-documentation/
     - icon: github
       text: JDemetra+ Github 
       href: https://github.com/jdemetra
