@@ -15,3 +15,7 @@ format:
 
 editor: visual
 
+comments:
+  giscus:
+    repo: annasmyk/JD_Quarto_Blog
+
