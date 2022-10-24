@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "User Group Meeting october 25th",
-    "section": "",
-    "text": "The STACE user group meets online to share the lestest JD+ developments."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "JDemetra+ Universe",
@@ -14,17 +7,24 @@
     "text": "This blog is dedicated to promoting JDemetra+ sofware and spreading information across the users community."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To JDemetra+ Universe Blog",
-    "section": "",
-    "text": "Now JDemetra+ time series analysis software has it’s blog ! Welcome"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "JDemetra+ Universe",
     "section": "",
     "text": "news\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 6, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Webinar_RJD_dec22/index.html",
+    "href": "posts/Webinar_RJD_dec22/index.html",
+    "title": "Webinar on R tools for JDemetra+ from v2 to v3",
+    "section": "",
+    "text": "(more info to come)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To JDemetra+ Universe Blog",
+    "section": "",
+    "text": "Now JDemetra+ time series analysis software has it’s blog ! Welcome"
   }
 ]
