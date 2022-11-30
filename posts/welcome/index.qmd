@@ -6,4 +6,4 @@ categories: [news]
 image: jdemetra+.png
 ---
 
-Now JDemetra+ time series analysis software has it's blog ! Welcome
+Now JDemetra+ time series analysis software has it's blog !

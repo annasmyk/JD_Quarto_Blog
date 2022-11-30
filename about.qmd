@@ -5,7 +5,7 @@ about:
   template: jolla
   links:
     - icon: netlify
-      text: JDemetra+ NEW online documentation
+      text: JDemetra+ NEW under-construction online documentation
       href: https://jdemetra-new-documentation.netlify.app
     - icon: github
       text: Current online documentation

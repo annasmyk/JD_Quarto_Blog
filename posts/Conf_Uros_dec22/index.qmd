@@ -1,0 +1,15 @@
+---
+title: "Upcoming Talks about JD+ at uRos 2022 conference"
+author: "Anna Smyk"
+date: "2022-10-09"
+categories: [Talks on JD+]
+image: "Uros_2022_logo.png"
+---
+
+The use of JDemetra+ algorithms in R will be higlighted in two talks. *Find out more...*
+
+-   R and JDemetra+ 3.0 a new toolox around seasonal adjustment and time series analysis, by Alain Quartier-la-tente, Insee, France. (Tuesday Dec 6th, 17:00 CET)
+
+-   Towards Seasonal Adjustment of Infra-Monthly Time Series with JDemetra+ 3.0 and rjd3highfreq R package, by Anna Smyk, Insee, France. (Tuesday Dec 6th, 17:15 CET)
+
+Please find the [complete agenda](Agenda_uRos2022_EN.pdf) and [Zoom link](Zoom_link.txt) here.

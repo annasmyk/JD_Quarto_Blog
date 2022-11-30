@@ -11,20 +11,27 @@
     "href": "index.html",
     "title": "JDemetra+ Universe",
     "section": "",
-    "text": "news\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 6, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\nNo matching items"
+    "text": "Upcoming Talks about JD+ at uRos 2022 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWebinar on R tools for JDemetra+ from v2 to v3\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To JDemetra+ Universe Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 6, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Conf_Uros_dec22/index.html",
+    "href": "posts/Conf_Uros_dec22/index.html",
+    "title": "Upcoming Talks about JD+ at uRos 2022 conference",
+    "section": "",
+    "text": "The use of JDemetra+ algorithms in R will be higlighted in two talks. Find out more…\n\nR and JDemetra+ 3.0 a new toolox around seasonal adjustment and time series analysis, by Alain Quartier-la-tente, Insee, France. (Tuesday Dec 6th, 17:00 CET)\nTowards Seasonal Adjustment of Infra-Monthly Time Series with JDemetra+ 3.0 and rjd3highfreq R package, by Anna Smyk, Insee, France. (Tuesday Dec 6th, 17:15 CET)\n\nPlease find the complete agenda and Zoom link here."
   },
   {
     "objectID": "posts/Webinar_RJD_dec22/index.html",
     "href": "posts/Webinar_RJD_dec22/index.html",
     "title": "Webinar on R tools for JDemetra+ from v2 to v3",
     "section": "",
-    "text": "(more info to come)"
+    "text": "Wednesday December 14th: Webinar on R tools for JDemetra+ from v2 to v3.\n(more info to come)"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
+    "objectID": "posts/Welcome/index.html",
+    "href": "posts/Welcome/index.html",
     "title": "Welcome To JDemetra+ Universe Blog",
     "section": "",
-    "text": "Now JDemetra+ time series analysis software has it’s blog ! Welcome"
+    "text": "Now JDemetra+ time series analysis software has it’s blog !"
   }
 ]
