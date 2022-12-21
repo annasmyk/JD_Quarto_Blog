@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "JDemetra+ Universe",
     "section": "",
-    "text": "Upcoming Talks about JD+ at uRos 2022 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWebinar on R tools for JDemetra+ from v2 to v3\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To JDemetra+ Universe Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 6, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\nNo matching items"
+    "text": "Resources from the Webinar on R tools for JDemetra+\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 21, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nUpcoming Talks about JD+ at uRos 2022 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWebinar on R tools for JDemetra+ from v2 to v3\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To JDemetra+ Universe Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 6, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Conf_Uros_dec22/index.html",
@@ -21,11 +21,18 @@
     "text": "The use of JDemetra+ algorithms in R will be higlighted in two talks. Find out more…\n\nR and JDemetra+ 3.0 a new toolox around seasonal adjustment and time series analysis, by Alain Quartier-la-tente, Insee, France. (Tuesday Dec 6th, 17:00 CET)\nTowards Seasonal Adjustment of Infra-Monthly Time Series with JDemetra+ 3.0 and rjd3highfreq R package, by Anna Smyk, Insee, France. (Tuesday Dec 6th, 17:15 CET)\n\nPlease find the complete agenda and Zoom link here."
   },
   {
+    "objectID": "posts/Resources_Webinar_RJD/index.html",
+    "href": "posts/Resources_Webinar_RJD/index.html",
+    "title": "Resources from the Webinar on R tools for JDemetra+",
+    "section": "",
+    "text": "All resources can be found on this Github page."
+  },
+  {
     "objectID": "posts/Webinar_RJD_dec22/index.html",
     "href": "posts/Webinar_RJD_dec22/index.html",
     "title": "Webinar on R tools for JDemetra+ from v2 to v3",
     "section": "",
-    "text": "Wednesday December 14th: Webinar on R tools for JDemetra+ …find out more"
+    "text": "Wednesday December 14th: Webinar on R tools for JDemetra+"
   },
   {
     "objectID": "posts/Welcome/index.html",

@@ -6,6 +6,6 @@ categories: [news]
 image: "rjdemetra_logo.png"
 ---
 
-Wednesday December 14th: Webinar on R tools for JDemetra+ 
+Wednesday December 14th: Webinar on R tools for JDemetra+
 
 

@@ -1,0 +1,9 @@
+---
+title: "Resources from the Webinar on R tools for JDemetra+"
+author: "Anna Smyk"
+date: "2022-12-21"
+categories: [news]
+image: "img_install_code.png"
+---
+
+All resources can be found on [this](https://github.com/annasmyk/Tsace_RJD_Webinar_Dec22) Github page.
