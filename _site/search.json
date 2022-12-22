@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "JDemetra+ Universe",
     "section": "",
-    "text": "Resources from the Webinar on R tools for JDemetra+\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 21, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nUpcoming Talks about JD+ at uRos 2022 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWebinar on R tools for JDemetra+ from v2 to v3\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To JDemetra+ Universe Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 6, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\nNo matching items"
+    "text": "JDemetra+ New online documentation\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 22, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nResources from the Webinar on R tools for JDemetra+\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 21, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nUpcoming Talks about JD+ at uRos 2022 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWebinar on R tools for JDemetra+ from v2 to v3\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To JDemetra+ Universe Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 6, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Conf_Uros_dec22/index.html",
@@ -19,6 +19,13 @@
     "title": "Upcoming Talks about JD+ at uRos 2022 conference",
     "section": "",
     "text": "The use of JDemetra+ algorithms in R will be higlighted in two talks. Find out more…\n\nR and JDemetra+ 3.0 a new toolox around seasonal adjustment and time series analysis, by Alain Quartier-la-tente, Insee, France. (Tuesday Dec 6th, 17:00 CET)\nTowards Seasonal Adjustment of Infra-Monthly Time Series with JDemetra+ 3.0 and rjd3highfreq R package, by Anna Smyk, Insee, France. (Tuesday Dec 6th, 17:15 CET)\n\nPlease find the complete agenda and Zoom link here."
+  },
+  {
+    "objectID": "posts/JD+_Doc_Release_1_22dec2022/index.html",
+    "href": "posts/JD+_Doc_Release_1_22dec2022/index.html",
+    "title": "JDemetra+ New online documentation",
+    "section": "",
+    "text": "First release of the new (revamped) JDemetra+ on-line documentation today ! You can explore the new website, featuring, among other things, up-to-date (though partial) information on using JDemetra+ in R and seasonal adjustment of high frequency data. It is far from being complete, but we hope it will grow fast from here ! Feel free to post issues in the corresponding GitHub repository and give us some feedback by commenting this post. (To post comments you have to be connected to GitHub)"
   },
   {
     "objectID": "posts/Resources_Webinar_RJD/index.html",

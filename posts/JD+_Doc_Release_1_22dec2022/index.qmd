@@ -6,7 +6,5 @@ categories: [news]
 image: "Doc_peek_view.png"
 ---
 
-First release of the new (revamped) JDemetra+ on-line documentation today! You can explore the [new website](https://jdemetra-new-documentation.netlify.app/), featuring, among other things, up-to-date information on using JDemetra+ in R and seasonal adjustment of high frequency data. It is far from being complete, but we hope it will grow fast from here ! Feel free to post issues in the corresponding [GitHub repository](https://github.com/annasmyk/JD_Quarto_Book) and give us some feedback by commenting this post.
-
-
-
+First release of the new (revamped) JDemetra+ on-line documentation today ! You can explore the [new website](https://jdemetra-new-documentation.netlify.app/), featuring, among other things, up-to-date (though partial) information on **using JDemetra+ in R** and **seasonal adjustment of high frequency data**. It is far from being complete, but we hope it will grow fast from here ! Feel free to post issues in the corresponding [GitHub repository](https://github.com/annasmyk/JD_Quarto_Book) and give us some feedback by commenting this post.
+(To post comments you have to be connected to GitHub)
