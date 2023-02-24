@@ -1,0 +1,13 @@
+---
+title: "JDemetra+ New online documentation"
+author: "Anna Smyk"
+date: "2023-02-24"
+categories: [news]
+image: "Doc_R2_sneak_peek.png"
+---
+
+The new JDemetra+ on-line documentation keeps growing. The [new website](https://jdemetra-new-documentation.netlify.app/) has up-to-date\* information on **using JDemetra+ in R** and **seasonal adjustment of high frequency data**. Chapters on seasonal adjustment and calendar correction have been significantly improved. It is a work in progress...
+
+\*: all information might not be exactly up-to-date as the recent change in package structure is concerned. But should be very soon. (rjd3toolkit, rjd3modelling, rjd3arima, rjd3sa were merged into one rjd3toolkit package)
+
+Feel free to post issues in the corresponding [GitHub repository](https://github.com/annasmyk/JD_Quarto_Book) and give us some feedback by commenting this post. (To post comments you have to be connected to GitHub)

@@ -1,0 +1,19 @@
+---
+title: "Major update in rjd3 packages suite"
+author: "Anna Smyk"
+date: "2023-02-24"
+categories: [news]
+image: "rjd3_merge_into_toolkit.png"
+
+---
+
+In January 2023, the following four packages : rjd3toolkit, rjd3modelling, rjd3arima, rjd3sa were merged into one extended rjd3toolkit package.
+
+The available tools are the same, but a significant number of functions were renamed.
+
+The code from the webinar, available [here](https://github.com/annasmyk/Tsace_RJD_Webinar_Dec22), will work if you kept he older versions or install the older versions as explained on this same [page](https://github.com/annasmyk/Tsace_RJD_Webinar_Dec22).
+
+An updated version will be available soon, we will keep you posted.
+
+The videos from the webinar are no longer available on GitHub but can be watched on our [**YouTube Channel*](https://www.youtube.com/@TSwithJDemetraandR)
+

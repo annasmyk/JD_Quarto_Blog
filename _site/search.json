@@ -11,14 +11,21 @@
     "href": "index.html",
     "title": "JDemetra+ Universe",
     "section": "",
-    "text": "JDemetra+ New online documentation\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 22, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nResources from the Webinar on R tools for JDemetra+\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 21, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nUpcoming Talks about JD+ at uRos 2022 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWebinar on R tools for JDemetra+ from v2 to v3\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To JDemetra+ Universe Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 6, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\nNo matching items"
+    "text": "Upcoming Talks about JD+ at NTTS 2023 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2023\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nJDemetra+ New online documentation\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2023\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nMajor update in rjd3 packages suite\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2023\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nJDemetra+ New online documentation\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 22, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nResources from the Webinar on R tools for JDemetra+\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 21, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nUpcoming Talks about JD+ at uRos 2022 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWebinar on R tools for JDemetra+ from v2 to v3\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To JDemetra+ Universe Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 6, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Conf_NTTS_march_2023/index.html",
+    "href": "posts/Conf_NTTS_march_2023/index.html",
+    "title": "Upcoming Talks about JD+ at NTTS 2023 conference",
+    "section": "",
+    "text": "NTTS 2023 conference will host a Time Series analysis session chaired by Jean Palate (NBB, Belgium) on Thursday 9th at 16:00, with two talks around JDemetra+:\n\nFixing the model for the seasonal component: a new revision policy, by Maria Novas Filgueira (INE, Spain) and al.\nJDemetra+ 3.0: New (R) tools for (high-frequency) time series analysis, by Tanguy Barthelemy and Anna Smyk (Insee, France)\n\nYou can browse the complete agenda here"
   },
   {
     "objectID": "posts/Conf_Uros_dec22/index.html",
     "href": "posts/Conf_Uros_dec22/index.html",
     "title": "Upcoming Talks about JD+ at uRos 2022 conference",
     "section": "",
-    "text": "The use of JDemetra+ algorithms in R will be higlighted in two talks. Find out more…\n\nR and JDemetra+ 3.0 a new toolox around seasonal adjustment and time series analysis, by Alain Quartier-la-tente, Insee, France. (Tuesday Dec 6th, 17:00 CET)\nTowards Seasonal Adjustment of Infra-Monthly Time Series with JDemetra+ 3.0 and rjd3highfreq R package, by Anna Smyk, Insee, France. (Tuesday Dec 6th, 17:15 CET)\n\nPlease find the complete agenda and Zoom link here."
+    "text": "The use of JDemetra+ algorithms in R will be highlighted in two talks. Find out more…\n\nR and JDemetra+ 3.0 a new toolbox around seasonal adjustment and time series analysis, by Alain Quartier-la-tente, Insee, France. (Tuesday Dec 6th, 17:00 CET)\nTowards Seasonal Adjustment of Infra-Monthly Time Series with JDemetra+ 3.0 and rjd3highfreq R package, by Anna Smyk, Insee, France. (Tuesday Dec 6th, 17:15 CET)\n\nPlease find the complete agenda and Zoom link here."
   },
   {
     "objectID": "posts/JD+_Doc_Release_1_22dec2022/index.html",
@@ -28,11 +35,25 @@
     "text": "First release of the new (revamped) JDemetra+ on-line documentation today ! You can explore the new website, featuring, among other things, up-to-date (though partial) information on using JDemetra+ in R and seasonal adjustment of high frequency data. It is far from being complete, but we hope it will grow fast from here ! Feel free to post issues in the corresponding GitHub repository and give us some feedback by commenting this post. (To post comments you have to be connected to GitHub)"
   },
   {
+    "objectID": "posts/JD+_Doc_Release_2_24fev2023/index.html",
+    "href": "posts/JD+_Doc_Release_2_24fev2023/index.html",
+    "title": "JDemetra+ New online documentation",
+    "section": "",
+    "text": "The new JDemetra+ on-line documentation keeps growing. The new website has up-to-date* information on using JDemetra+ in R and seasonal adjustment of high frequency data. Chapters on seasonal adjustment and calendar correction have been significantly improved. It is a work in progress…\n*: all information might not be exactly up-to-date as the recent change in package structure is concerned. But should be very soon. (rjd3toolkit, rjd3modelling, rjd3arima, rjd3sa were merged into one rjd3toolkit package)\nFeel free to post issues in the corresponding GitHub repository and give us some feedback by commenting this post. (To post comments you have to be connected to GitHub)"
+  },
+  {
     "objectID": "posts/Resources_Webinar_RJD/index.html",
     "href": "posts/Resources_Webinar_RJD/index.html",
     "title": "Resources from the Webinar on R tools for JDemetra+",
     "section": "",
     "text": "All resources can be found on this Github page."
+  },
+  {
+    "objectID": "posts/Update_on_RJD3_Webinar/index.html",
+    "href": "posts/Update_on_RJD3_Webinar/index.html",
+    "title": "Major update in rjd3 packages suite",
+    "section": "",
+    "text": "In January 2023, the following four packages : rjd3toolkit, rjd3modelling, rjd3arima, rjd3sa were merged into one extended rjd3toolkit package.\nThe available tools are the same, but a significant number of functions were renamed.\nThe code from the webinar, available here, will work if you kept he older versions or install the older versions as explained on this same page.\nAn updated version will be available soon, we will keep you posted.\nThe videos from the webinar are no longer available on GitHub but can be watched on our **YouTube Channel*"
   },
   {
     "objectID": "posts/Webinar_RJD_dec22/index.html",

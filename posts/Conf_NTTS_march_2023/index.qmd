@@ -1,0 +1,15 @@
+---
+title: "Upcoming Talks about JD+ at NTTS 2023 conference"
+author: "Anna Smyk"
+date: "2023-02-24"
+categories: [Talks on JD+]
+image: "Ntts_2023_Logo_Dates.png"
+---
+
+NTTS 2023 conference will host a **Time Series analysis** session chaired by Jean Palate (NBB, Belgium) on Thursday 9th at 16:00, with two talks around JDemetra+:
+
+-   Fixing the model for the seasonal component: a new revision policy, by Maria Novas Filgueira (INE, Spain) and al.
+
+-   JDemetra+ 3.0: New (R) tools for (high-frequency) time series analysis, by Tanguy Barthelemy and Anna Smyk (Insee, France)
+
+You can browse the [complete agenda](ntts2023_scientific_programme_and_outline_0.pdf) here
