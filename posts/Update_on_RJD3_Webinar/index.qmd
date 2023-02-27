@@ -4,7 +4,6 @@ author: "Anna Smyk"
 date: "2023-02-24"
 categories: [news]
 image: "rjd3_merge_into_toolkit.png"
-
 ---
 
 In January 2023, the following four packages : rjd3toolkit, rjd3modelling, rjd3arima, rjd3sa were merged into one extended rjd3toolkit package.
@@ -15,5 +14,4 @@ The code from the webinar, available [here](https://github.com/annasmyk/Tsace_RJ
 
 An updated version will be available soon, we will keep you posted.
 
-The videos from the webinar are no longer available on GitHub but can be watched on our [**YouTube Channel*](https://www.youtube.com/@TSwithJDemetraandR)
-
+The videos from the webinar are no longer available on GitHub but can be watched on our [\*\*YouTube Channel\*](https://www.youtube.com/@TSwithJDemetraandR)

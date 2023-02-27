@@ -6,7 +6,7 @@ categories: [news]
 image: "Doc_R2_sneak_peek.png"
 ---
 
-The new JDemetra+ on-line documentation keeps growing. The [new website](https://jdemetra-new-documentation.netlify.app/) has up-to-date\* information on **using JDemetra+ in R** and **seasonal adjustment of high frequency data**. Chapters on seasonal adjustment and calendar correction have been significantly improved. It is a work in progress...
+JDemetra+ on-line documentation keeps growing. The [new website](https://jdemetra-new-documentation.netlify.app/) has up-to-date\* information on **using JDemetra+ in R** and **seasonal adjustment of high frequency data**. Chapters on seasonal adjustment and calendar correction have been significantly improved. It is a work in progress...
 
 \*: all information might not be exactly up-to-date as the recent change in package structure is concerned. But should be very soon. (rjd3toolkit, rjd3modelling, rjd3arima, rjd3sa were merged into one rjd3toolkit package)
 

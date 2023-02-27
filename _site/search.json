@@ -39,7 +39,7 @@
     "href": "posts/JD+_Doc_Release_2_24fev2023/index.html",
     "title": "JDemetra+ New online documentation",
     "section": "",
-    "text": "The new JDemetra+ on-line documentation keeps growing. The new website has up-to-date* information on using JDemetra+ in R and seasonal adjustment of high frequency data. Chapters on seasonal adjustment and calendar correction have been significantly improved. It is a work in progress…\n*: all information might not be exactly up-to-date as the recent change in package structure is concerned. But should be very soon. (rjd3toolkit, rjd3modelling, rjd3arima, rjd3sa were merged into one rjd3toolkit package)\nFeel free to post issues in the corresponding GitHub repository and give us some feedback by commenting this post. (To post comments you have to be connected to GitHub)"
+    "text": "JDemetra+ on-line documentation keeps growing. The new website has up-to-date* information on using JDemetra+ in R and seasonal adjustment of high frequency data. Chapters on seasonal adjustment and calendar correction have been significantly improved. It is a work in progress…\n*: all information might not be exactly up-to-date as the recent change in package structure is concerned. But should be very soon. (rjd3toolkit, rjd3modelling, rjd3arima, rjd3sa were merged into one rjd3toolkit package)\nFeel free to post issues in the corresponding GitHub repository and give us some feedback by commenting this post. (To post comments you have to be connected to GitHub)"
   },
   {
     "objectID": "posts/Resources_Webinar_RJD/index.html",
