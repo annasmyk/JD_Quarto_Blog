@@ -12,4 +12,4 @@ NTTS 2023 conference will host a **Time Series analysis** session chaired by Jea
 
 -   JDemetra+ 3.0: New (R) tools for (high-frequency) time series analysis, by Tanguy Barthelemy and Anna Smyk (Insee, France)
 
-You can browse the [complete agenda](ntts2023_scientific_programme_and_outline_0.pdf) here
+You can browse the [complete agenda](ntts2023_scientific_programme_and_outline.pdf) here
