@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "JDemetra+ Universe",
     "section": "",
-    "text": "Upcoming Talks about JD+ at NTTS 2023 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2023\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nJDemetra+ New online documentation\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2023\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nMajor update in rjd3 packages suite\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2023\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nJDemetra+ New online documentation\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 22, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nResources from the Webinar on R tools for JDemetra+\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 21, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nUpcoming Talks about JD+ at uRos 2022 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWebinar on R tools for JDemetra+ from v2 to v3\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To JDemetra+ Universe Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 6, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\nNo matching items"
+    "text": "Release of GUI and Cruncher v 3.0.1\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 25, 2023\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nNew version of R packages\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 25, 2023\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nUpcoming Talks about JD+ at NTTS 2023 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2023\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nJDemetra+ New online documentation\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2023\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nMajor update in rjd3 packages suite\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2023\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nJDemetra+ New online documentation\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 22, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nResources from the Webinar on R tools for JDemetra+\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 21, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nUpcoming Talks about JD+ at uRos 2022 conference\n\n\n\n\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWebinar on R tools for JDemetra+ from v2 to v3\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To JDemetra+ Universe Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 6, 2022\n\n\nAnna Smyk\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Conf_NTTS_march_2023/index.html",
@@ -40,6 +40,20 @@
     "title": "JDemetra+ New online documentation",
     "section": "",
     "text": "JDemetra+ on-line documentation keeps growing. The new website has up-to-date* information on using JDemetra+ in R and seasonal adjustment of high frequency data. Chapters on seasonal adjustment and calendar correction have been significantly improved. It is a work in progress…\n*: all information might not be exactly up-to-date as the recent change in package structure is concerned. But should be very soon. (rjd3toolkit, rjd3modelling, rjd3arima, rjd3sa were merged into one rjd3toolkit package)\nFeel free to post issues in the corresponding GitHub repository and give us some feedback by commenting this post. (To post comments you have to be connected to GitHub)"
+  },
+  {
+    "objectID": "posts/JD+_GUI_Release_25mai2023/index.html",
+    "href": "posts/JD+_GUI_Release_25mai2023/index.html",
+    "title": "Release of GUI and Cruncher v 3.0.1",
+    "section": "",
+    "text": "As recently announced by Jean Palate, the new JD+ 3.0 (graphical interface and cruncher) is available at the following address:\nhttps://github.com/jdemetra/jdplus-main/releases/tag/v3.0.1\nFor installing instructions see https://github.com/jdemetra/jdplus-main#installing.\nNote that Java 17 is now embedded is in the installation files, you don’t need to tackle this issue on your computer. Be sure to choose the windows specific zip file (if you use windows)."
+  },
+  {
+    "objectID": "posts/JD+_R_packages_25mai2023/index.html",
+    "href": "posts/JD+_R_packages_25mai2023/index.html",
+    "title": "New version of R packages",
+    "section": "",
+    "text": "New version of RJDemetra and rjd3 packages available\nThe latest version (0.2.2) of RJDemetra can be found here:\nhttps://github.com/jdemetra/rjdemetra/releases/tag/v0.2.2 and also on CRAN.\nThe latest version (3.0.0) of all the rjd3 packages can be found at\n\nhttps://github.com/palatej/rjd3toolkit\nhttps://github.com/palatej/rjd3x13\nhttps://github.com/palatej/rjd3tramoseats\n\n….\nIt contains a (heavily) updated documentation and (a lot of) bug fixes."
   },
   {
     "objectID": "posts/Resources_Webinar_RJD/index.html",
