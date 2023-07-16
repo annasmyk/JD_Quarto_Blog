@@ -1,0 +1,25 @@
+---
+title: "New version of R packages"
+author: "Anna Smyk"
+date: "2023-05-25"
+categories: [news]
+image: "Doc_R2_sneak_peek.png"
+---
+
+**New version of RJDemetra and rjd3 packages available**
+
+The latest version (0.2.2) of RJDemetra can be found here:
+
+https://github.com/jdemetra/rjdemetra/releases/tag/v0.2.2 and also on CRAN.
+
+The latest version (3.0.0) of all the rjd3 packages can be found at
+
+-   https://github.com/palatej/rjd3toolkit
+
+-   https://github.com/palatej/rjd3x13
+
+-   https://github.com/palatej/rjd3tramoseats
+
+....
+
+It contains a (heavily) updated documentation and (a lot of) bug fixes.
