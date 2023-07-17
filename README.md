@@ -20,7 +20,7 @@ To contribute to the project, feel free to submit **pull requests**.
 🌟 Guest posts welcome ! 🌟
 
 <p align="center">
-  <img src="https://github.com/TanguyBarthelemy/JD_Quarto_Blog/blob/main/img/issue/pull_request.png?raw=true">
+  <img src="https://github.com/TanguyBarthelemy/JD_Quarto_Blog/blob/master/img/pull_request/pull_request.png?raw=true">
 </p>
 
 
@@ -41,25 +41,25 @@ To complete an issue on GitHub, you should:
 1.Go to the *Issues* tab:
 
 <p align="center">
-  <img src="https://github.com/TanguyBarthelemy/JD_Quarto_Blog/blob/main/img/issue/issue_panel.png?raw=true">
+  <img src="https://github.com/TanguyBarthelemy/JD_Quarto_Blog/blob/master/img/issue/issue_panel.png?raw=true">
 </p>
 
 2. Click on *New issue*:
 
 <p align="center">
-  <img src="https://github.com/TanguyBarthelemy/JD_Quarto_Blog/blob/main/img/issue/create_issue.png?raw=true">
+  <img src="https://github.com/TanguyBarthelemy/JD_Quarto_Blog/blob/master/img/issue/create_issue.png?raw=true">
 </p>
 
 3. Choose one of the themes proposed in the list and click on *Get started*:
 
 <p align="center">
-  <img src="https://github.com/TanguyBarthelemy/JD_Quarto_Blog/blob/main/img/issue/choose_issue.png?raw=true">
+  <img src="https://github.com/TanguyBarthelemy/JD_Quarto_Blog/blob/master/img/issue/choose_issue.png?raw=true">
 </p>
 
 4. Fill the question with a title and a text to explain the problem or the request and click on *Submit new issue*:
 
 <p align="center">
-  <img src="https://github.com/TanguyBarthelemy/JD_Quarto_Blog/blob/main/img/issue/complete_issue.png?raw=true">
+  <img src="https://github.com/TanguyBarthelemy/JD_Quarto_Blog/blob/master/img/issue/complete_issue.png?raw=true">
 </p>
 
 
