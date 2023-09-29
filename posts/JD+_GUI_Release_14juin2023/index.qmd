@@ -1,14 +1,14 @@
 ---
-title: "Release of GUI and Cruncher v 3.0.1"
+title: "Release of GUI and Cruncher v 3.0.2"
 author: "Anna Smyk"
-date: "2023-05-25"
+date: "2023-06-16"
 categories: [News]
 image: "GUI_v3_sneak_peek.png"
 ---
 
-As recently announced by Jean Palate, the new JD+ 3.0 (graphical interface and cruncher) is available at the following address:
+Latest official version of JDemetra+ version can be found at
 
-https://github.com/jdemetra/jdplus-main/releases/tag/v3.0.1
+[https://github.com/jdemetra/jdplus-main/releases/tag/v3.0.](https://github.com/jdemetra/jdplus-main/releases/tag/v3.0.2)2
 
 For installing instructions see https://github.com/jdemetra/jdplus-main#installing.
 
