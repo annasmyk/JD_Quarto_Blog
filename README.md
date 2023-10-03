@@ -1,6 +1,6 @@
-#  Source Code the blog about JDemetra+
+#  Source Code of the blog about JDemetra+
 
-The JD_Quarto_Blog repository hosts the source code for the [JD+ Universe blog](https://jdemetra-universe-blog.netlify.app/) which aims at spreading all JDemetra+ related information.
+JD_Quarto_Blog is the repository containing the [JD+ Universe blog](https://jdemetra-universe-blog.netlify.app/) which aims at spreading "all" JDemetra+ related information: 
 
 
 ## 👉 Contents

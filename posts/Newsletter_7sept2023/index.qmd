@@ -1,0 +1,9 @@
+---
+title: "Newsletter September 2023"
+author: "Anna Smyk"
+date: "2023-09-07"
+categories: [Newsletter]
+image: "Newsletter_logo.png"
+---
+
+The September edition of JDemetra+ newsletter can be found [here](Newsletter_7sept_2023.pdf)

@@ -1,0 +1,13 @@
+---
+title: "New discussion paper"
+author: "Anna Smyk"
+date: "2023-09-24"
+categories: [Papers on JD+]
+image: "Couv_DP.png"
+---
+
+New discussion paper: Towards seasonal adjustment of infra-monthly time series with JDemetra+ by Karsten Webel (BBk) and Anna Smyk (Insee)
+
+JDemetra+ has been recently augmented with algorithms tailored to the specifics of infra-monthly data and accessible through an ecosystem of R packages (rjd3highfreq, rjd3x11plus, rjd3stl). We give a comprehensive overview of the packages' current developmental stage and illustrate selected capabilities, including code snippets, using daily births in France, hourly electricity consumption in Germany, and weekly initial claims for unemployment insurance in the United States, adjusted with structural models (rjd3sts).
+
+Read the full paper [here](https://www.bundesbank.de/resource/blob/915460/e0c29d7a79c28c3b48cdc0b07f1e3a64/mL/2023-09-04-dkp-24-data.pdf)

@@ -2,8 +2,8 @@
 title: "Welcome To JDemetra+ Universe Blog"
 author: "Anna Smyk"
 date: "2022-10-06"
-categories: [news]
+categories: [Opening Post]
 image: jdemetra+.png
 ---
 
-Now JDemetra+ time series analysis software has it's blog !
+Now JDemetra+, a versatile time series analysis software recommended by Eurostat, has it's blog !
