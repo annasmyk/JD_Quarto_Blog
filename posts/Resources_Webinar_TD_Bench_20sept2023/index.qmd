@@ -2,7 +2,7 @@
 title: "Webinar on Temporal Disaggregation"
 author: "Anna Smyk"
 date: "2023-09-29"
-categories: [Webinars]
+categories: [Webinar]
 image: "Webinar_Intro_sept2023.png"
 ---
 
@@ -10,11 +10,17 @@ All presentations and R code snippets from the webinar held on September 20th 20
 
 
 
-- P1: “Model-Based Denton with application to National Accounts” by Corentin Lemasson (NBB) with R code file
+## **Model-Based Denton with application to National Accounts** by Corentin Lemasson (NBB) with R code file
 
-- P2: "Temporal Disaggregation using JDemetra+ (GUI and rjd3bench)” by Maria Novas Filgueira (INE)
+{{< video https://www.youtube.com/embed/PC0tj2jMcuU >}}
 
-- P3: "Overview of case studies of temporal disaggregation and benchmarking developed within STACE" by Filippo Moauro (Istat)
+## **Temporal Disaggregation using JDemetra+ (GUI and rjd3bench)** by Maria Novas Filgueira (INE)
+
+{{< video https://www.youtube.com/embed/sWrxAR4YnGU >}}
+
+## **Overview of case studies of temporal disaggregation and benchmarking developed within STACE** by Filippo Moauro (Istat)
+
+{{< video https://www.youtube.com/embed/UBuKTbfFSv4 >}}
 
 
-Videos are available on our [\*\*YouTube Channel\*](https://www.youtube.com/@TSwithJDemetraandR)
+Videos are available on our [**YouTube Channel**](https://www.youtube.com/@TSwithJDemetraandR)
