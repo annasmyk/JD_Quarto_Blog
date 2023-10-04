@@ -2,7 +2,7 @@
 title: "Resources from the Webinar on R tools for JDemetra+"
 author: "Anna Smyk"
 date: "2022-12-21"
-categories: [Webinars]
+categories: [Webinar, R packages]
 image: "img_install_code.png"
 ---
 
