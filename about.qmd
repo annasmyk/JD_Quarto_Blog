@@ -15,4 +15,4 @@ about:
       href: https://github.com/jdemetra
 ---
 
-This blog is dedicated to promoting JDemetra+ sofware and spreading information across the users community.
+This blog is dedicated to promoting JDemetra+ software and spreading information across the users community.
