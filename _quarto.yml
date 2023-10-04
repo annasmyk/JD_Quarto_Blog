@@ -10,12 +10,12 @@ website:
         href: https://github.com/jdemetra
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - custom.scss
+      - cosmo
 
-editor: visual
+editor: source
 
 comments:
   giscus:
     repo: annasmyk/JD_Quarto_Blog
-
