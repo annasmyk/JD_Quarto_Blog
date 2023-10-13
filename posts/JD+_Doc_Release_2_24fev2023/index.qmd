@@ -2,7 +2,7 @@
 title: "JDemetra+ New online documentation"
 author: "Anna Smyk"
 date: "2023-02-24"
-categories: [News]
+categories: [News, Documentation]
 image: "Doc_R2_sneak_peek.png"
 ---
 

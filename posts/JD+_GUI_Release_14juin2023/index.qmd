@@ -2,7 +2,7 @@
 title: "Release of GUI and Cruncher v 3.0.2"
 author: "Anna Smyk"
 date: "2023-06-16"
-categories: [News]
+categories: [News, GUI]
 image: "GUI_v3_sneak_peek.png"
 ---
 

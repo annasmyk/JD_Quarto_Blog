@@ -2,7 +2,7 @@
 title: "New version of R packages"
 author: "Anna Smyk"
 date: "2023-05-25"
-categories: [News]
+categories: [News, R packages]
 image: "Doc_R2_sneak_peek.png"
 ---
 
