@@ -1,0 +1,19 @@
+---
+title: "Time Series Analysis Workshop"
+author: "Anna Smyk"
+date: "2023-12-01"
+categories: [Talks on JD+]
+image: "Logo-JD-Oecd.png"
+---
+
+A **Workshop on Time Series Analysis**  and Statistical Disclosure Control Methods for Official Statistics will be held OECD, Boulogne (Paris), France on December 14th and 15th 2023.
+
+Several talks relate to JDemetra+.
+
+The full program is available here [here](2023-12-14 STACE Workshop - Draft Program V3.pdf)
+
+To attend (in presence or remotely), please register here.
+
+https://forms.office.com/e/3c817rYFjd
+
+
