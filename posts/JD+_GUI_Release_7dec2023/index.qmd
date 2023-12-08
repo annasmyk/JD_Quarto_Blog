@@ -1,0 +1,27 @@
+---
+title: "Release of GUI and Cruncher v 3.2.1"
+author: "Anna Smyk"
+date: "2023-12-8"
+categories: [News, GUI]
+image: "logo_raccourci_v321.png"
+---
+
+To get the latest official version of JDemetra+
+
+Head over to [https://github.com/jdemetra/jdplus-main/releases/tag/v3.2.1](https://github.com/jdemetra/jdplus-main/releases/tag/v3.2.1)
+
+If you use windows download this zip file: *jdemetra-3.2.1-windows-bin.zip*
+
+Note that Java 17 is now embedded is in the installation files, you don't need to tackle this issue on your computer.
+
+For installing instructions go [here](https://github.com/jdemetra/jdplus-main#installing).
+
+In addition to main Graphical user interface (X13-Arima and Tramo-Seats), there is also a new version of 
+
+- the cruncher downloading this zip *jwsacruncher-3.2.1-windows-bin.zip* if you use windows 
+
+- the plug-ins contained in the [incubator](https://github.com/jdemetra/jdplus-incubator/releases/tag/v2.0.0) giving access to STL+, STS, X12+  and extensions for high-frequency data, just download the following files (installation instructions can be found [here](https://jdemetra-new-documentation.netlify.app/t-plug-ins#t-plug-ins-inst))
+
+![](plug-ins.png)
+
+
