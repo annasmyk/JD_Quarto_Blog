@@ -8,7 +8,7 @@ image: "Isi_logo_2023.png"
 
 Two talks around JDemetra+ were given at the 64th ISI World Statistics Congress held in Ottawa, Canada.
 
--   JDemetra+ 3.0: a versatile time series analysis software (Anna Smyk and Tanguy, Insee, France)
+-   JDemetra+ 3.0: a versatile time series analysis software (Anna Smyk and Tanguy Barthelemy, Insee, France)
 
 -   Efficient nowcasting tools based on mixed-frequency state space models(Jean Palate and Corentin Lemasson, NBB)
 
