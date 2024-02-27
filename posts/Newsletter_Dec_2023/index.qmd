@@ -1,0 +1,9 @@
+---
+title: "Newsletter December 2023"
+author: "Anna Smyk"
+date: "2023-12-11"
+categories: [Newsletter]
+image: "Newsletter_logo.png"
+---
+
+The December edition of JDemetra+ newsletter can be found [here](Newsletter_11dec2023.pdf)
