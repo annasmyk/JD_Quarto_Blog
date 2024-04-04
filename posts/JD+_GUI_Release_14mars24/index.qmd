@@ -1,0 +1,25 @@
+---
+title: "Release of GUI and Cruncher v 3.2.2"
+author: "Anna Smyk"
+date: "2024-3-14"
+categories: [News, GUI]
+image: "logo_raccourci_v322.png"
+---
+
+To get the latest official version of JDemetra+
+
+Head over to [https://github.com/jdemetra/jdplus-main/releases/tag/v3.2.2](https://github.com/jdemetra/jdplus-main/releases/tag/v3.2.2)
+
+If you use windows download this zip file: *jdemetra-standalone-3.2.2-windows-x86_64.zip*
+
+Note that Java 21 is now embedded is in the installation files, you don't need to tackle this issue on your computer.
+
+For installing instructions go [here](https://github.com/jdemetra/jdplus-main#installing).
+
+In addition to main Graphical user interface (X13-Arima and Tramo-Seats), there is also a new version of 
+
+**the cruncher**, which can be installed downloading this zip *jwsacruncher-3.2.2.zip*.
+
+
+
+
