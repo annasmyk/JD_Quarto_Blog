@@ -1,0 +1,19 @@
+---
+title: "Release of HF, STL+, STS, X12+ plug-ins v2.1.0"
+author: "Anna Smyk"
+date: "2024-4-17"
+categories: [News, GUI]
+image: "plug-ins.png"
+---
+
+A new version JDemetra+ additional SA algorithms is available.
+
+In addition to the main Graphical user interface (X13-Arima and Tramo-Seats) recent release ( v3.2.2, see previous blog post), a new version (2.1.0) of the [incubator](https://github.com/jdemetra/jdplus-incubator/releases/tag/v2.1.0) has just been published.
+
+The plug-ins contained in the incubator give access to STL+, STS, X12+  and extensions for high-frequency data.
+
+Just download the following files and proceed with installation as described [here](https://jdemetra-new-documentation.netlify.app/t-plug-ins#t-plug-ins-inst)
+
+![](plug-ins.png)
+
+
