@@ -35,7 +35,7 @@ The other files and folder are unique to quarto and website building and should 
 
 ## 🙋 How to ask a question?
 
-To ask a question, you can send us an email to Anna (anna.smyk@insee.fr) and to Tanguy (tanguy.barthelemy@insee.fr) or complete an issue directly on GitHub.
+To ask a question, you can send us an email (anna.smyk@insee.fr or tanguy.barthelemy@insee.fr) or complete an issue directly on GitHub.
 To complete an issue on GitHub, you should:
 
 1.Go to the *Issues* tab:
@@ -66,9 +66,9 @@ To complete an issue on GitHub, you should:
 ## 🌐 Networks
 
 You can find us on:
-- 🖥️ GitHub Tanguy: https://github.com/TanguyBarthelemy
-- 👨‍💻 GitHub Anna: https://github.com/annasmyk
+- 🖥️ GitHub Tanguy Barthelemy: https://github.com/TanguyBarthelemy
+- 👨‍💻 GitHub Anna Smyk: https://github.com/annasmyk
 - 🏢 Symphonie (intranet Insee)
 - ▶️ [Youtube](https://www.youtube.com/@TSwithJDemetraandR)
-- 📚 Biblio: https://jdemetra-new-documentation.netlify.app/
+- 📚 JDemera+ Documentation: https://jdemetra-new-documentation.netlify.app/
 - 📝 Blog: https://jdemetra-universe-blog.netlify.app/
