@@ -13,6 +13,9 @@ about:
     - icon: github
       text: R packages for JDemetra+ v3.x Github 
       href: https://github.com/rjdemetra
+    - icon: github
+      text: Anna Smyk (Blog Creator) on GitHub
+      href: https://github.com/annasmyk
 ---
 
 This blog is dedicated to promoting JDemetra+ software and spreading information across the users community.
