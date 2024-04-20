@@ -5,14 +5,14 @@ about:
   template: jolla
   links:
     - icon: netlify
-      text: JDemetra+ NEW under-construction online documentation
+      text: JDemetra+ online documentation
       href: https://jdemetra-new-documentation.netlify.app
-    - icon: github
-      text: Current online documentation
-      href: https://jdemetradocumentation.github.io/JDemetra-documentation/
     - icon: github
       text: JDemetra+ Github 
       href: https://github.com/jdemetra
+    - icon: github
+      text: R packages for JDemetra+ v3.x Github 
+      href: https://github.com/rjdemetra
 ---
 
 This blog is dedicated to promoting JDemetra+ software and spreading information across the users community.
