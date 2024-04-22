@@ -1,0 +1,9 @@
+---
+title: "Newsletter April 2024"
+author: "Anna Smyk"
+date: "2024-04-19"
+categories: [Newsletter]
+image: "Newsletter_logo.png"
+---
+
+The April edition of JDemetra+ newsletter can be found [here](Newsletter_19april_2024.pdf)
