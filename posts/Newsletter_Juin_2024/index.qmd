@@ -1,0 +1,9 @@
+---
+title: "Newsletter June 2024"
+author: "Anna Smyk"
+date: "2024-06-14"
+categories: [Newsletter]
+image: "Newsletter_logo.png"
+---
+
+The June edition of JDemetra+ newsletter can be found [here](Newslette_June_2024.pdf)

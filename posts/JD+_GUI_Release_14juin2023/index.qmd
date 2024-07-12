@@ -6,9 +6,9 @@ categories: [News, GUI]
 image: "GUI_v3_sneak_peek.png"
 ---
 
-Latest official version of JDemetra+ version can be found at
+Latest official version of JDemetra+ can be found at
 
-[https://github.com/jdemetra/jdplus-main/releases/tag/v3.0.](https://github.com/jdemetra/jdplus-main/releases/tag/v3.0.2)2
+[https://github.com/jdemetra/jdplus-main/releases/tag/v3.0.2](https://github.com/jdemetra/jdplus-main/releases/tag/v3.0.2)
 
 For installing instructions see https://github.com/jdemetra/jdplus-main#installing.
 
