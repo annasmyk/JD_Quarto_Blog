@@ -1,0 +1,25 @@
+---
+title: "Time Series Analysis Workshop"
+author: "Anna Smyk"
+date: "2024-10-29"
+categories: [Talks on JD+]
+image: "Logo_OECD_Insee.png"
+---
+
+A **Workshop on Time Series Analysis**  will be held at OECD, Paris, La Muette, France on **December 5th and 6th 2024**.
+
+The two main topics are Nowcasting and Seasonal Adjustment.
+
+Several talks relate to JDemetra+.
+
+The full program is available [here](Agenda_Workshop on Time Series_5-6 December 2024.pdf)
+
+To attend (in presence or remotely), register using this link
+
+[https://forms.office.com/e/EtivNwehxc](https://forms.office.com/e/EtivNwehxc)
+
+Note that all meeting documents will be posted on: [https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx](https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx)
+
+For any questions regarding logistics, please contact virginie.elgrably@oecd.org
+
+
