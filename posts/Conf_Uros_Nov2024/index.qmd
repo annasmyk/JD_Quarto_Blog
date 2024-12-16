@@ -1,0 +1,13 @@
+---
+title: "Tutorial on rjdverse packages at uRos 2024"
+author: "Anna Smyk"
+date: "2024-12-02"
+categories: [Talks on JD+]
+image: "Uros_Logo.png"
+---
+
+The 2024 edition of [uRos (Use of R in Official Statistics)](http://r-project.ro/conference2024.html) conference was held in Athens, Greece on November 27th to 29th.
+
+We gave a tutorial about (some) of the packages of the [rjdverse](https://github.com/rjdverse) family, it is available [here](https://github.com/TanguyBarthelemy/uRos2024-rjdverse). 
+
+We also presented a poster which is currently travelling on its own through Europe.
