@@ -1,0 +1,16 @@
+---
+title: "JDemetra+ v 3.4.0"
+author: "Anna Smyk"
+date: "2025-02-14"
+categories: [News, GUI]
+image: "JD+v_3-4-0.png"
+---
+
+Latest official version of JDemetra+ Graphical User Interface and Cruncher, released on February 13th 2025, can be found at
+
+[https://github.com/jdemetra/jdplus-main/releases/tag/v3.4.0](https://github.com/jdemetra/jdplus-main/releases/tag/v3.4.0)
+
+For installing instructions see [https://jdemetra-new-documentation.netlify.app/#installing-the-software](https://jdemetra-new-documentation.netlify.app/#installing-the-software)
+
+Note that Java 21 is now embedded is in the installation files, you don't need to tackle this issue on your computer. Be sure to choose the windows specific zip file (if you use windows).
+

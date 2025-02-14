@@ -1,0 +1,19 @@
+---
+title: "NTTS 2025...and JDemetra+"
+author: "Anna Smyk"
+date: "2025-02-14"
+categories: [Talks on JD+]
+image: "Ntts_2025_Logo_Dates.png"
+---
+
+The NTTS 2025 conference is just a few weeks away! A unique venue for the statistical community....
+
+You can access the draft program [here](ntts2025_scientific_programme_DRAFT.pdf).
+
+I will be chairing a session on **Time Series analysis** on Thursday March 13th at 2:30 pm, with talks around JDemetra+:
+
+![**TSA Session Talks**](NTTS_2025_time_series_session.png)
+
+
+
+
