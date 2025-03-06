@@ -12,7 +12,7 @@ about:
       href: https://github.com/jdemetra
     - icon: github
       text: R packages for JDemetra+ v3.x GitHub 
-      href: https://github.com/rjdemetra
+      href: https://github.com/rjdverse
     - icon: github
       text: Anna Smyk (Blog Creator) on GitHub
       href: https://github.com/annasmyk

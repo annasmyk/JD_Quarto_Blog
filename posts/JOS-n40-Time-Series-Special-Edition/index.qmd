@@ -1,0 +1,18 @@
+---
+title: "JOS Special Issue on Time Series Analysis in Official Statistics"
+author: "Anna Smyk"
+date: "2024-12-12"
+categories: [Papers on JD+]
+image: "JOS_Logo.png"
+---
+
+Journal of Official Statistics Special Issue on Time Series Analysis is just out and available [here](https://journals.sagepub.com/toc/JOF/current)
+
+Two papers are related to JDemetra+ algorithms
+
+- [Seasonal adjustment of infra-monthly time series with JDemetra+](https://doi.org/10.1177/0282423X241277602) by Karsten Webel (BBk) and Anna Smyk (Insee)
+
+- [Improving Real-Time Trend Estimates Using Local Parametrization of Polynomial Regression Filters](https://journals.sagepub.com/doi/full/10.1177/0282423X241283207) by Alain quartier-La-Tente (Insee)
+
+
+
