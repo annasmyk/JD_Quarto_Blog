@@ -1,0 +1,36 @@
+---
+title: "Discussion Paper on revisions in daily and weekly series"
+author: "Anna Smyk"
+date: "2025-04-11"
+categories: [Papers on JD+]
+image: "Couv_DP.png"
+---
+
+A new Bundesbank Discussion Paper is just out: Revisions in concurrent seasonal adjustments of daily
+and weekly economic time series by Karsten Webel (Deutsche Bundesbank)
+
+Abstract
+
+The COVID-19 outbreak in 2020 has fostered in many countries the development of
+new weekly economic indices for the timely tracking of pandemic-related turmoils
+and other forms of rapid economic changes. Such indices often utilise information
+from daily and weekly economic time series that normally exhibit complex forms
+of seasonal behaviour. The latter dynamics were initially removed with ad hoc or
+experimental methods due to the urgent need of instant results and hence the lack
+of time for inventing and approving more sophisticated alternatives. This, never-
+theless, has in turn inspired recent developments of seasonal adjustment methods
+tailored to the specifics of infra-monthly time series. Although sound theoretical
+descriptions of these tailored methods are already available, their performance has
+not been evaluated empirically in great detail so far. To fill this gap, we consider
+real-time data vintages of several infra-monthly economic time series for Germany
+and analyse the cross-vintage stability of holiday-related deterministic pretreatment
+effects as well as the revisions in various concurrent signal estimates obtained with
+experimental STL-based and selected elaborate methods, such as the extended
+ARIMA model-based and X-11 approaches. Our main findings are that the tai-
+lored methods tend to outperform the experimental ones in terms of computational
+speed, that the considered pretreatment routines yield generally stable parameter es-
+timates across data vintages, and that the extended ARIMA model-based approach
+generates the smallest and least volatile revisions in many cases.
+
+Read the full paper [here](https://www.bundesbank.de/en/publications/research/discussion-papers/revisions-in-concurrent-seasonal-adjustments-of-daily-and-weekly-economic-time-series-925552)
+
