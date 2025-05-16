@@ -1,0 +1,27 @@
+---
+title: "JDemetra+ v 3.5.0, Incubator v2.3.0 and R Packages v3.5.0"
+author: "Anna Smyk"
+date: "2025-04-11"
+categories: [News, GUI]
+image: "JD+v_3-5-0.png"
+---
+
+Latest official version of JDemetra+ Graphical User Interface and Cruncher, released on April 9th 2025, can be found at
+
+[https://github.com/jdemetra/jdplus-main/releases/tag/v3.5.0](https://github.com/jdemetra/jdplus-main/releases/tag/v3.5.0)
+
+A new version of the incubator (v3.2.0) is also available
+
+It contains, among other things, extensions of SA algorithms for High-Frequency data
+
+More information at https://github.com/jdemetra/jdplus-incubator/releases/tag/v2.3.0
+
+For installing instructions see [https://jdemetra-new-documentation.netlify.app/#installing-the-software](https://jdemetra-new-documentation.netlify.app/#installing-the-software)
+
+A new release of rjd3toolkit, rjd3tramoseats, rjd3x13, rjd3sts, rjd3providers, rjd3workspace has just been published
+
+All rjdverse packages are available on GitHub (https://github.com/rjdverse) and on r-universe (https://rjdverse.r-universe.dev/packages)
+
+Installation procedures are detailed in the readme files.
+
+Most of the other packages have also a significantly improved development version and will be released shortly. 
