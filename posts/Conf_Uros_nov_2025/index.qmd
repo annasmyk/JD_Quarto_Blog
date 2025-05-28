@@ -1,0 +1,21 @@
+---
+title: "uRos 2025: still time to submit"
+author: "Anna Smyk"
+date: "2025-05-15"
+categories: [Talks on JD+]
+image: "uRos_Logo.png"
+---
+
+The 2025 edition of [uRos (Use of R in Official Statistics)](https://r-project.ro/conference2025.html) conference will be held in Bucharest, Romania, on November 24th to 26th.
+
+You can submit your (short) abstract until May 30th.
+
+I can tell you from experience that uRos is an amazing event: if your work with R you won't be disappointed.
+
+As a new member of the organizing committee, I would be delighted to meet you in Bucharest !
+
+Check out the dedicated website [https://r-project.ro/conference2025.html](https://r-project.ro/conference2025.html)
+
+
+
+
