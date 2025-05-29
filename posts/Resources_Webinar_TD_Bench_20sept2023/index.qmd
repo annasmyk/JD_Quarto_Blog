@@ -6,7 +6,7 @@ categories: [Webinar]
 image: "Webinar_Intro_sept2023.png"
 ---
 
-All presentations and R code snippets from the webinar held on September 20th 2023 can be found on [this](https://github.com/annasmyk/Webinar_TSACE_Bench_and_TD_sept2023) Github page.
+All presentations and R code snippets from the webinar held on September 20th 2023 can be found on [this](https://github.com/annasmyk/Webinar_TSACE_Bench_and_TD_sept2023) GitHub page.
 
 
 
