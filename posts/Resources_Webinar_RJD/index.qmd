@@ -6,6 +6,6 @@ categories: [Webinar, R packages]
 image: "img_install_code.png"
 ---
 
-All resources can be found on [this](https://github.com/annasmyk/Tsace_RJD_Webinar_Dec22) Github page.
+All resources can be found on [this](https://github.com/annasmyk/Tsace_RJD_Webinar_Dec22) GitHub page.
 
 Videos are available on GitHub but can be watched on our [\*\*YouTube Channel\*](https://www.youtube.com/@TSwithJDemetraandR)

@@ -10,7 +10,7 @@ image: "Doc_R2_sneak_peek.png"
 
 The latest version (0.2.2) of RJDemetra can be found here:
 
-https://github.com/jdemetra/rjdemetra/releases/tag/v0.2.2 and also on CRAN.
+https://github.com/rjdverse/rjdemetra/releases/tag/v0.2.2 and also on CRAN.
 
 The latest version (3.0.0) of all the rjd3 packages can be found at
 
