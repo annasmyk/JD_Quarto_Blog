@@ -1,12 +1,12 @@
 ---
-title: "Time Series Analysis Workshop"
+title: "TSA Workshop: call for papers"
 author: "Anna Smyk"
 date: "2025-07-07"
 categories: [Talks on JD+]
 image: "Logo_OECD_Insee.png"
 ---
 
-A **Workshop on Time Series Analysis** for official  will be held at OECD, Paris, La Muette, France on **December 3rd and 4th 2025**.
+A **Workshop on Time Series Analysis** for official statistics will be held at OECD, Paris, La Muette, France on **December 3rd and 4th 2025**.
 
 Abstract submission is open and will close on September 15th 2025.
 

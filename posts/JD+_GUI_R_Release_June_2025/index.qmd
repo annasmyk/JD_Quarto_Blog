@@ -3,10 +3,10 @@ title: "JDemetra+ v 3.5.1 and R Packages"
 author: "Anna Smyk"
 date: "2025-06-12"
 categories: [News, GUI]
-image: "JD+v_3.5.1.png"
+image: "JD+v_3-5-1.png"
 ---
 
-Latest official version of JDemetra+ Graphical User Interface and Cruncher 3.5.1 was released on June 12th 2025 containing important bug corrections.
+Latest version of JDemetra+ Graphical User Interface and Cruncher 3.5.1 containing important bug corrections was released on June 12th 2025 .
 
 It can be found at
 
