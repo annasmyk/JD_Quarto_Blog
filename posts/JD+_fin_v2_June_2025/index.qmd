@@ -1,0 +1,13 @@
+---
+title: "Version 2 maintained until December 2026"
+author: "Anna Smyk"
+date: "2026-06-12"
+categories: [News]
+image: "JD+_v2_end_of_Maint.png"
+---
+
+Version 2.x of JDemetra (Core, GUI, Cruncher, {RJDemetra}) will be maintained until December 2026…and not beyond. 
+
+This milestone will coincide with the end of official support for Java 8.
+
+All the corresponding repositories and files at this date will of course remain available beyond December 2026.
