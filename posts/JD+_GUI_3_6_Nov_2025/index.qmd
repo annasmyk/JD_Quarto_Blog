@@ -1,0 +1,20 @@
+---
+title: "JDemetra+ v 3.6.0"
+author: "Anna Smyk"
+date: "2025-11-27"
+categories: [News, GUI]
+image: "JD+v_3-6-0.png"
+---
+
+Release of JDemetra+ Graphical User Interface (+ Cruncher) v3.6.0 with some important bug corrections!
+
+More information at https://github.com/jdemetra/jdplus-main/releases/tag/v3.6.0
+
+All installation procedures (GUI, cruncher, plug-ins) are detailed here 
+
+https://jdemetra-new-documentation.netlify.app/#installing-the-software
+ 
+All rjdverse packages are available on GitHub (https://github.com/rjdverse) and on r-universe (https://rjdverse.r-universe.dev/packages)
+
+Installation procedures are detailed in the README files.
+		

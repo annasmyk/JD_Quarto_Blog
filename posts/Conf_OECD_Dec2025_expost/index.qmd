@@ -1,0 +1,20 @@
+---
+title: "5th OECD-Insee TSA Workshop"
+author: "Anna Smyk"
+date: "2025-12-05"
+categories: [Talks on JD+]
+image: "Photo_groupe.jpg"
+---
+
+A very lively 5th Edition of the **Time Series Analysis for Official Statistics** Workshop took place at OECD, Paris, La Muette, France on **December 3rd and 4th 2025** and via Zoom.
+
+We were (almost) live on LinkedIn thanks to Dario Buono 
+
+The two main topics were Nowcasting and Seasonal Adjustment, with several talks were related to JDemetra+. All presentations are available at: [https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx](https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx)
+
+We were delighted to spend time with some of you ! Very fruitful discussions and good mood and a bit of drama... thank you for attending !
+
+See you next year !
+
+
+

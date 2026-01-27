@@ -1,0 +1,11 @@
+---
+title: "Talks around JDemetra+ at ISI world statistics congress"
+author: "Anna Smyk"
+date: "2025-10-10"
+categories: [Talks on JD+]
+image: "Isi_logo_2025.png"
+---
+
+Among other interesting Time Series talks, a dedicated session on "New Developments in Seasonal Adjustment", chaired by Robert Kirchner took place in the Hague. JDemetra+ was of sourse showcased as a key tool. Speakers: Daniel Ollech and Karsten Webel, Carlos Saez Calvo, Alessandro Piovanni among others...
+Full details [here](https://www.isi-next.org/proposals/proposal/964/detail/)
+![](session_photo_2.png)

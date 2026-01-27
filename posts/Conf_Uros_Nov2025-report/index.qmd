@@ -1,0 +1,9 @@
+---
+title: "uRos 2025: HF Data and Handover to Insee"
+author: "Anna Smyk"
+date: "2025-11-26"
+categories: [Talks on JD+]
+image: "logo_2025.png"
+---
+
+I gave a presentation about R tools for Seasonal Adjustment of High Frequency data at 2025 edition of [uRos (Use of R in Official Statistics)](http://r-project.ro/conference2025.html) conference. The slides are available [here](uRos-2025-Beamer-v2.pdf).... but most importantly I was given the keys for the 2026 edition in Paris! More info soon...In the meantime have a look at the testimonials from [Bucharest](uros2025_newsletter.pdf)

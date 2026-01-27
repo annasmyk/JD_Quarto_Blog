@@ -1,0 +1,9 @@
+---
+title: "uRos 2026: Save the Date"
+author: "Anna Smyk"
+date: "2026-01-27"
+categories: [Talks on JD+]
+image: "uRos_2026_rdv.png"
+---
+
+The 2026 edition of [uRos (Use of R in Official Statistics)](https://r-project.ro/conference2026.html) conference will be held in PARIS, France November 18th to 20th. More info to come ...stay tuned 

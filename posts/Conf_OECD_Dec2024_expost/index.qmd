@@ -11,7 +11,7 @@ A very engaging 4th Edition of the **Time Series Analysis for Official Statistic
 The two main topics were Nowcasting and Seasonal Adjustment and several talks were related to JDemetra+.
 
 The full program is available [here](Agenda_Workshop on Time Series_5-6 December 2024.pdf) and all the
-presenations at: [https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx](https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx)
+presentations at: [https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx](https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx)
 
 We were delighted to spend time with some of you ! Very fruitful discussions and good mood, thank you for attending.
 
