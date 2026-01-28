@@ -1,0 +1,14 @@
+{
+  "hash": "d50090df12220c226c288cd62eb53fb7",
+  "result": {
+    "markdown": "---\ntitle: \"{rjd3toolkit}, {rjd3x13} and {rjd3tramoseats} are on CRAN\"\nauthor: \"Anna Smyk\"\ndate: \"2026-01-28\"\ncategories: [News]\nimage: \"JD+v_3-6-0.png\"\n---\n\n\n\nR packages giving access to JDemetra+ version 3: {rjd3toolkit}, {rjd3x13} and {rjd3tramoseats} are on CRAN !\n\nYou can install the latest release \n\n::: {.cell}\n\n```{.r .cell-code}\ninstall.packages(c(\"rjd3toolkit\", \"rjd3x13\", \"rjd3tramoseats\"))\n```\n:::\n\n\n\nLinks :\n-\t[https://cran.r-project.org/web/packages/rjd3toolkit/index.html](https://cran.r-project.org/web/packages/rjd3toolkit/index.html)\n-\t[https://cran.r-project.org/web/packages/rjd3x13/index.html](https://cran.r-project.org/web/packages/rjd3x13/index.html)\n-\t[https://cran.r-project.org/web/packages/rjd3tramoseats/index.html](https://cran.r-project.org/web/packages/rjd3tramoseats/index.html)\n\nand use, among other things, all the related modelling and Seasonal Adjustment procedures. \n\nThey are based on a new hidden package {rjd3jars}.\t \n\t\nWe will upload on CRAN all the remaining rjdverse packages ({rjd3bench}, {rjd3highfreq}, {rjd3workspace}...) in the coming weeks/months.\n\nThey are all already available on [GitHub](https://github.com/rjdverse) and on [R-Universe](https://rjdverse.r-universe.dev/packages)\n\nFor installation procedures and examples have a look at the README files and related GitHub pages.\n\n\n\t\t\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
