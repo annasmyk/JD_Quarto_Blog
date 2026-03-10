@@ -1,0 +1,30 @@
+---
+title: "New paper on Seasnal Adjustment of High-Frequency Data"
+author: "Anna Smyk"
+date: "2026-02-10"
+categories: [Papers on JD+]
+image: "Couv_DP.png"
+---
+
+New discussion paper: Diagnostic tools for selecting the temporal resolution
+for seasonal adjustment by Daniel Ollech and Stefan Martin (Deutsche Bundesbank)
+
+Abstract
+
+Official statistics increasingly make use of higher-frequency time series. But when
+users ultimately are interested in a seasonally adjusted temporal aggregate of these
+data, we have to decide whether to perform seasonal adjustment or aggregation
+first. Consequently, we must weigh up the benefits of richer informational content
+against the increased computational requirements and the challenges presented by
+using more volatile and outlier-prone data. We examine this trade-off on simulated
+and real-world time series using a battery of diagnostics including revision size,
+tests on residual seasonal and calendar effects and linkage with target variables
+using leading adjustment procedures: DSA, WSA, X-13-ARIMA, and TRAMO-
+SEATS. We synthesise our findings into practical guidelines that help users choose
+the aggregation level that balances statistical quality and real-time usefulness.
+
+Keywords: higher frequency time series; temporal aggregation; official time series
+
+JEL classification: C13, C14, C22, C52
+
+Read the full paper [here](https://www.bundesbank.de/resource/blob/925534/8148179b642467334c7bf77da432f2bd/472B63F073F071307366337C94F8C870/2026-01-09-dkp-01-data.pdf)

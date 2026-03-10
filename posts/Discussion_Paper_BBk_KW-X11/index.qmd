@@ -1,0 +1,40 @@
+---
+title: "Discussion Paper on Redesigning X-11 filters"
+author: "Anna Smyk"
+date: "2026-03-09"
+categories: [Papers on JD+]
+image: "Couv_DP.png"
+---
+
+A new Bundesbank Discussion Paper is just out: Redesigning the classical automatic selection of X-11
+seasonal filters, by Dr Karsten Webel
+
+Abstract
+
+The classical X-11 seasonal adjustment method for monthly and quarterly time
+series is equipped with routines for data-driven selections of both Henderson trend-
+cycle filters and 3 × k seasonal moving averages, currently involving up to three
+candidate filters in either case. Although these routines have a long-standing tra-
+dition that can be traced back at least to 1960, they have not been adopted in
+a recent JDemetra+ implementation of a modified X-11 method tailored to the
+specifics of infra-monthly time series, such as the coexistence of multiple seasonal
+patterns with potentially fractional periodicities. Focusing on seasonal moving aver-
+ages, we seek to fill this gap by suggesting a generic redesign of the legacy selection
+concept based upon the so-called moving seasonality ratio. This blueprint utilises
+a broader set of candidate seasonal filters and, unlike the original setting, a set of
+common approaches for deriving the requisite asymmetric variants. Considering
+intersections of multiple approach-specific selection rules stabilises the final filter
+choice and, what is more, naturally provides the warranted thresholds controlling
+the potential recalculation of the moving seasonality ratio from suitably shortened
+detrended observations. Our proposed redesign is illustrated using one specific rule
+based upon threshold quartiles and real-time data for three German macroeconomic
+time series sampled at quarterly, monthly, and daily intervals. The last example
+also highlights the need for additional intermediate steps in the calculation of the
+moving seasonality ratio when the data contain complex seasonal dynamics.
+
+Keywords: asymmetric linear filters, concurrent revision policy, JDemetra+, moving seasonality ratio, nonparametric seasonal adjustment, real-time data.
+
+JEL classification: C01, C02, C14, C22, C40, C50.
+
+Read the full paper [here](https://www.bundesbank.de/resource/blob/925522/080a44e1dbb0f9a7fa56ace6a456dc85/472B63F073F071307366337C94F8C870/2026-02-23-dkp-07-data.pdf)
+

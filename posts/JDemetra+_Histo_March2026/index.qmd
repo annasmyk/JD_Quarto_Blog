@@ -1,0 +1,11 @@
+---
+title: "Back in Time !"
+author: "Anna Smyk"
+date: "2026-03-09"
+categories: [JDemetra+ History]
+image: "Logo_Demetra_2.png"
+---
+
+We resurfaced an Insee publication describing how JDemetra+ came to be...
+check it out [here](History_JD_Insee.pdf)!
+
