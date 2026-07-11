@@ -1,0 +1,28 @@
+---
+title: "uRos 2026: Registration open until September 15th: book your spot!"
+author: "Anna Smyk"
+date: "2026-07-02"
+categories: [Talks on JD+]
+image: "logo-uros.png"
+---
+
+This is an [uRos 2026 (Use of R in Official Statistics)](https://r-project.ro/conference2026.html) update:
+
+- call for abstracts is closed now, we had a record number of submissions, thank you for your great response !
+
+- we will have three rooms allowing parallel sessions on the three days
+
+- notification of acceptance will be issued on July 20th
+
+- draft program will follow
+
+- you are, of course, warmly invited to join us in Paris even if you won't present ! 
+
+- if you want to attend (as a presenter or not) you must complete registration before September 15th 
+following the procedure outlined at [https://r-project.ro/conference2026.html#Registration](https://r-project.ro/conference2026.html#Registration) and pay the 330 euro registration fee (including lunches, networking cocktail and coffee breaks).
+
+**Spots are limited, so book yours as early as possible !**
+
+Looking forward to meeting you in Paris !
+
+[](Flyer uRos-01.png)

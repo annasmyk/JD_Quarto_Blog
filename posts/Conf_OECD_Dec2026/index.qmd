@@ -1,5 +1,5 @@
 ---
-title: "TSA Workshop: call for papers"
+title: "TSA Workshop: call for abstracts until September 30th!"
 author: "Anna Smyk"
 date: "2026-06-01"
 categories: [Talks on JD+]

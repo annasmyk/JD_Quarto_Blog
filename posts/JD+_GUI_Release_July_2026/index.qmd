@@ -1,0 +1,24 @@
+---
+title: "JDemetra+ v 3.8.0 and new JVS plug-in"
+author: "Anna Smyk"
+date: "2026-07-10"
+categories: [News, GUI]
+image: "JD_v3_8_0.png"
+---
+
+Release of JDemetra+ Graphical User Interface (+ Cruncher) v3.8.0 with enhancements (frequency choice in specification definition, cross-validation for X11 filter selection...) and of course bug corrections!
+
+More information at [https://github.com/jdemetra/jdplus-main/releases/tag/v3.8.0](https://github.com/jdemetra/jdplus-main/releases/tag/v3.8.0)
+
+New version of the incubator is also out, containing a JVS plugin (Eurostat QR) compatible with version 3 of the Graphical User Interface 
+
+[https://github.com/jdemetra/jdplus-incubator/releases/tag/v2.5.2](https://github.com/jdemetra/jdplus-incubator/releases/tag/v2.5.2)
+
+All installation procedures (GUI, cruncher, plug-ins) are detailed here 
+
+[https://doc.jdemetra.org/#installing-the-software](https://doc.jdemetra.org/#installing-the-software)
+ 
+All corresponding updated versions of **rjdverse packages** are available on **CRAN**, on [GitHub](https://github.com/rjdverse) and on [r-universe](https://rjdverse.r-universe.dev/packages)
+
+Installation procedures are detailed in the README files.
+		
