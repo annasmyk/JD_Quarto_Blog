@@ -1,5 +1,5 @@
 ---
-title: "New paper on Seasnal Adjustment of High-Frequency Data"
+title: "New paper on Seasonal Adjustment of High-Frequency Data"
 author: "Anna Smyk"
 date: "2026-02-10"
 categories: [Papers on JD+]
