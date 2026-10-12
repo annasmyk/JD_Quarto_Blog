@@ -1,14 +1,14 @@
 ---
-title: "JDemetra+ v 3.8.0 and new JVS plug-in"
+title: "JDemetra+ v 3.9.0 and new JVS plug-in"
 author: "Anna Smyk"
-date: "2026-07-10"
+date: "2026-09-15"
 categories: [News, GUI]
-image: "JD_v3_8_0.png"
+image: "JD_v3_9_0.png"
 ---
 
-Release of JDemetra+ Graphical User Interface (+ Cruncher) v3.8.0 with enhancements (frequency choice in specification definition, cross-validation for X11 filter selection...) and of course bug corrections!
+Release of JDemetra+ Graphical User Interface (+ Cruncher) v3.9.0 with enhancements (frequency choice in specification definition, cross-validation for X11 filter selection...) and of course bug corrections!
 
-More information at [https://github.com/jdemetra/jdplus-main/releases/tag/v3.8.0](https://github.com/jdemetra/jdplus-main/releases/tag/v3.8.0)
+More information at [https://github.com/jdemetra/jdplus-main/releases/tag/v3.9.0](https://github.com/jdemetra/jdplus-main/releases/tag/v3.9.0)
 
 New version of the incubator is also out, containing a JVS plugin (Eurostat QR) compatible with version 3 of the Graphical User Interface 
 
